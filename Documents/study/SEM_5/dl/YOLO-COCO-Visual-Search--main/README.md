@@ -119,3 +119,4 @@ Examples you may include:
 - Real-time detection is smooth on both CPU and GPU systems.  
 - The project successfully demonstrates machine learning deployment using local Streamlit.
 
+
